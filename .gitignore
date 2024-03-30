@@ -2,3 +2,4 @@ venv/
 setup.cfg
 .vscode/
 __pycache__
+glavsnab.csv
